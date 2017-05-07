@@ -12,6 +12,7 @@
 * https://git-scm.com/book/en/v2
 * https://www.atlassian.com/git/tutorials/merging-vs-rebasing
 * Squashing commits: http://eli.thegreenplace.net/2014/02/19/squashing-github-pull-requests-into-a-single-commit
+* Forking and contributing: https://splice.com/blog/contributing-open-source-git-repositories-go/
 
 ### Tests
 
