@@ -7,6 +7,11 @@
 * SoK: http://www.jbonneau.com/doc/BMCNKF15-IEEESP-bitcoin.pdf
 * Bitcoin and Cryptocurrency Technologies course and book: https://piazza.com/princeton/spring2015/btctech/resources
 
+### Go
+
+* Good code guidelines: https://github.com/golang/go/wiki/CodeReviewComments
+* Use gofmt or goimports!
+
 ### Git
 
 * https://git-scm.com/book/en/v2
