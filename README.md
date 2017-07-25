@@ -17,7 +17,8 @@
 * Blockchain Revolution: http://blockchain-revolution.com/
 * Real-time Data: https://blockchain.info/charts/
 * Why Bitcoin Matters (Marc Andreessen): https://dealbook.nytimes.com/2014/01/21/why-bitcoin-matters/?_r=0
- 
+* Why the blockchain matters (Reid Hoffman): http://www.wired.co.uk/article/bitcoin-reid-hoffman
+
 * Bitcoin and Cryptocurrency Technologies video lectures: https://piazza.com/princeton/spring2015/btctech/resources
 * Bitcoin and Cryptocurrency Technologies textbook (draft): https://d28rh4a8wq0iu5.cloudfront.net/bitcointech/readings/princeton_bitcoin_book.pdf
 
