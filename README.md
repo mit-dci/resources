@@ -18,6 +18,8 @@
 * Real-time Data: https://blockchain.info/charts/
 * Why Bitcoin Matters (Marc Andreessen): https://dealbook.nytimes.com/2014/01/21/why-bitcoin-matters/?_r=0
 * Why the blockchain matters (Reid Hoffman): http://www.wired.co.uk/article/bitcoin-reid-hoffman
+* Programmable Blockchains in Context: Ethereum’s Future (Vinay Gupta): https://media.consensys.net/programmable-blockchains-in-context-ethereum-s-future-cd8451eb421e
+* Can Bitcoin Be Used For Good? (Chelsea Barabas & Ethan Zuckerman): https://www.theatlantic.com/technology/archive/2016/04/bitcoin-hype/477141/
 
 * Bitcoin and Cryptocurrency Technologies video lectures: https://piazza.com/princeton/spring2015/btctech/resources
 * Bitcoin and Cryptocurrency Technologies textbook (draft): https://d28rh4a8wq0iu5.cloudfront.net/bitcointech/readings/princeton_bitcoin_book.pdf
