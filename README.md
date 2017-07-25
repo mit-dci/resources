@@ -20,8 +20,9 @@
 * Why the blockchain matters (Reid Hoffman): http://www.wired.co.uk/article/bitcoin-reid-hoffman
 * Programmable Blockchains in Context: Ethereum’s Future (Vinay Gupta): https://media.consensys.net/programmable-blockchains-in-context-ethereum-s-future-cd8451eb421e
 * Can Bitcoin Be Used For Good? (Chelsea Barabas & Ethan Zuckerman): https://www.theatlantic.com/technology/archive/2016/04/bitcoin-hype/477141/
-Ethereum white paper (Franklyn Chien): https://github.com/ethereum/wiki/wiki/White-Paper
-Ethereum yellow paper (Gavin Wood): http://gavwood.com/paper.pdf
+* Ethereum white paper (Franklyn Chien): https://github.com/ethereum/wiki/wiki/White-Paper
+* Ethereum yellow paper (Gavin Wood): http://gavwood.com/paper.pdf
+
 * Bitcoin and Cryptocurrency Technologies video lectures: https://piazza.com/princeton/spring2015/btctech/resources
 * Bitcoin and Cryptocurrency Technologies textbook (draft): https://d28rh4a8wq0iu5.cloudfront.net/bitcointech/readings/princeton_bitcoin_book.pdf
 
