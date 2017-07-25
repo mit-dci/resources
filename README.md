@@ -8,7 +8,7 @@
 * Base-line Introduction: https://www.khanacademy.org/economics-finance-domain/core-finance/money-and-banking/bitcoin/v/bitcoin-what-is-it
 * Future of Money (Neha Narula): https://www.youtube.com/watch?v=pPgd7Hj3ABQ
 * How it works (David Andolfatto): https://www.youtube.com/watch?v=kmjuhrPuLSU
-* Overview and Applications (Brian Ford): https://www.youtube.com/watch?v=2TKUDLtEiNM
+* Overview and Applications (Brian Forde): https://www.youtube.com/watch?v=2TKUDLtEiNM
 
 * Mastering Bitcoin: http://www.michaelnielsen.org/ddi/how-the-bitcoin-protocol-actually-works/
 * Blockchain Stack Overview: http://joel.mn/post/103546215249/the-blockchain-application-stack
@@ -16,7 +16,8 @@
 * Proof of Work: http://www.ariannasimpson.com/blog/network-security-and-proof-of-work-do-we-need-an-alternative
 * Blockchain Revolution: http://blockchain-revolution.com/
 * Real-time Data: https://blockchain.info/charts/
-
+* Why Bitcoin Matters (Marc Andreessen): https://dealbook.nytimes.com/2014/01/21/why-bitcoin-matters/?_r=0
+ 
 * Bitcoin and Cryptocurrency Technologies video lectures: https://piazza.com/princeton/spring2015/btctech/resources
 * Bitcoin and Cryptocurrency Technologies textbook (draft): https://d28rh4a8wq0iu5.cloudfront.net/bitcointech/readings/princeton_bitcoin_book.pdf
 
