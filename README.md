@@ -26,6 +26,7 @@
 * Bitcoin and Cryptocurrency Technologies video lectures: https://piazza.com/princeton/spring2015/btctech/resources
 * Bitcoin and Cryptocurrency Technologies textbook (draft): https://d28rh4a8wq0iu5.cloudfront.net/bitcointech/readings/princeton_bitcoin_book.pdf
 * Discrete Log Contracts (Tadge Dryja): https://adiabat.github.io/dlc.pdf
+* BCG Blockchain paper (Philip Evans): https://www.bcg.com/blockchain/thinking-outside-the-blocks.html
 
 ### Go
 
