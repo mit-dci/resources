@@ -11,10 +11,8 @@
 * Overview and Applications (Brian Forde): https://www.youtube.com/watch?v=2TKUDLtEiNM
 
 * Mastering Bitcoin: http://www.michaelnielsen.org/ddi/how-the-bitcoin-protocol-actually-works/
-* Blockchain Stack Overview: http://joel.mn/post/103546215249/the-blockchain-application-stack
 * Research Perspectives and Challenges: http://www.jbonneau.com/doc/BMCNKF15-IEEESP-bitcoin.pdf
 * Proof of Work: http://www.ariannasimpson.com/blog/network-security-and-proof-of-work-do-we-need-an-alternative
-* Blockchain Revolution: http://blockchain-revolution.com/
 * Real-time Data: https://blockchain.info/charts/
 * Why Bitcoin Matters (Marc Andreessen): https://dealbook.nytimes.com/2014/01/21/why-bitcoin-matters/?_r=0
 * Why the blockchain matters (Reid Hoffman): http://www.wired.co.uk/article/bitcoin-reid-hoffman
